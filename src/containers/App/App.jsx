@@ -1,9 +1,8 @@
-import { getApiResourse } from '../../utils/network';
 import styles from './App.module.css';
-
+import PeoplePage from '../PeoplePage';
 const App = () => {
   return (
-    <h1>Привет</h1>
+    <PeoplePage/>
   ) 
 }
 
