@@ -17,4 +17,4 @@ export const getApiResourse = async (url) => {
 // (async () => {
 //     const body = await getApiResourse(SWAPI_ROOT+SWAPI_PEOPLE)
 //     console.log(body)
-// })();
+// })();qq
